@@ -2,7 +2,7 @@ def calculate_sum(a, b):
     return a + b
 
 def calculate_product(a, b):
-    return a * b
+    a * b
 
 result_sum = calculate_sum(2, 3)
 print("Sum:", result_sum)
