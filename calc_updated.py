@@ -12,7 +12,7 @@ print("Product:", result_product)
 
 # New function added
 def calculate_difference(a, b):
-    return a y b
+    return a - b
 
 result_difference = calculate_difference(5, 3)
 print("Difference:", result_difference)
